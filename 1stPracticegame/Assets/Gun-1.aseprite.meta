@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: c7cbe64e08459164d8246c0de4401ddb
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Gun-1_Frame_10
+    originalName: 
+    pivot: {x: 0.625, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 131
+      width: 32
+      height: 18
+    spriteID: 394b390879a6df9478c101e8a85ab18c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 131}
+  - name: Gun-1_Frame_11
+    originalName: 
+    pivot: {x: 0.625, y: -0.1904762}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 37
+      width: 32
+      height: 21
+    spriteID: 2a777dbf50f0e1f499e5a9f541fe0c5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 37}
+  - name: Gun-1_Frame_12
+    originalName: 
+    pivot: {x: 0.625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 32
+      height: 25
+    spriteID: ff80c94b0d8abba47af304cb80d82416
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Gun-1_Frame_13
+    originalName: 
+    pivot: {x: 0.61290324, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 157
+      width: 31
+      height: 18
+    spriteID: e921b0a4b0e2aa645842ced0cdbbc37a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 157}
+  - name: Gun-1_Frame_14
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 99
+      width: 27
+      height: 24
+    spriteID: 004093da275af8b4c98a85bb3d702fb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 99}
+  - name: Gun-1_Frame_15
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 66
+      width: 26
+      height: 25
+    spriteID: a0f3946aef1bb69469dd9b9a7bf4a47e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 66}
+  - name: Gun-1_Frame_16
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.23809524}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 183
+      width: 26
+      height: 21
+    spriteID: 8573688436c3c0e49bbe9706771d29ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 183}
+  - name: Gun-1_Frame_17
+    originalName: 
+    pivot: {x: 0.57142854, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 4
+      width: 28
+      height: 16
+    spriteID: 9e15cdb7a705de047a274143680ab434
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 4}
+  - name: Gun-1_Frame_18
+    originalName: 
+    pivot: {x: 0.586207, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 236
+      width: 29
+      height: 16
+    spriteID: c02ce52216d053c4d97a6d97ed5cfda3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 236}
+  - name: Gun-1_Frame_19
+    originalName: 
+    pivot: {x: 0.6, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 212
+      width: 30
+      height: 16
+    spriteID: f4346ea0f24c4314aa6ff8317bed4d41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 212}
+  - name: Gun-1_Frame_20
+    originalName: 
+    pivot: {x: 0.40909094, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 148
+      width: 22
+      height: 16
+    spriteID: aaf66e79f14aa5d4ea96f29d1fa62841
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 148}
+  - name: Gun-1_Frame_21
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 172
+      width: 22
+      height: 16
+    spriteID: c229dad0f3f3a564d99fd05544c8cbdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 172}
+  - name: Gun-1_Frame_22
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 196
+      width: 22
+      height: 16
+    spriteID: 8c8d9a0fd4d711047a4847c3376f3578
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 196}
+  - name: Gun-1_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 220
+      width: 22
+      height: 16
+    spriteID: 674dccc78a384e344813a4fe4cdb7d4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 220}
+  - name: Gun-1_Frame_1
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 4
+      width: 22
+      height: 16
+    spriteID: 17f1b89a5b7c2e04887a29ddf5ade0b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 4}
+  - name: Gun-1_Frame_2
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 28
+      width: 22
+      height: 16
+    spriteID: bd6b3ae3939bd974d87bbe6ead0a5af3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 28}
+  - name: Gun-1_Frame_3
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 52
+      width: 22
+      height: 16
+    spriteID: 151f3763aeef1054fb741d59a94bd765
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 52}
+  - name: Gun-1_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 76
+      width: 22
+      height: 16
+    spriteID: b6a727b8a38f8e04f916b138d010bb95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 76}
+  - name: Gun-1_Frame_5
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 28
+      width: 26
+      height: 16
+    spriteID: a7dea03128e18bf469dbc0905167e11f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 28}
+  - name: Gun-1_Frame_6
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 52
+      width: 26
+      height: 16
+    spriteID: 00f31fe7bfbcdab4e8ab2f7626953397
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 52}
+  - name: Gun-1_Frame_7
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 76
+      width: 26
+      height: 16
+    spriteID: e585aff335d1fc54ca78feca36d00a43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 76}
+  - name: Gun-1_Frame_8
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 100
+      width: 26
+      height: 16
+    spriteID: e30c1afb2e51cb141a31221ad5d2409a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 100}
+  - name: Gun-1_Frame_9
+    originalName: 
+    pivot: {x: 0.53846157, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 124
+      width: 26
+      height: 16
+    spriteID: 4dbc021db4f2bd34d9d431a1c451c7c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 124}
+  - name: Gun-1_Frame_23
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 100
+      width: 22
+      height: 16
+    spriteID: 8ea39845d69cc8e43bc43e0eb0659350
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 100}
+  - name: Gun-1_Frame_24
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 124
+      width: 22
+      height: 16
+    spriteID: bfd08aeddc41cb648bc47701ba0ae279
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 124}
+  - name: Gun-1_Frame_25
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 148
+      width: 22
+      height: 16
+    spriteID: cae07fa683d939045a15e5089e60a642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 148}
+  - name: Gun-1_Frame_26
+    originalName: 
+    pivot: {x: 0.4545455, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 172
+      width: 22
+      height: 16
+    spriteID: 9da7fd093d476104fa95efb78544f85f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 172}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -660769674
+    name: Gun-1
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Gun-1_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 4
+        y: 7
+        width: 32
+        height: 18
+      spriteId: 394b390879a6df9478c101e8a85ab18c
+    - name: Gun-1_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 4
+        y: 4
+        width: 32
+        height: 21
+      spriteId: 2a777dbf50f0e1f499e5a9f541fe0c5b
+    - name: Gun-1_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 4
+        y: 0
+        width: 32
+        height: 25
+      spriteId: ff80c94b0d8abba47af304cb80d82416
+    - name: Gun-1_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 5
+        y: 7
+        width: 31
+        height: 18
+      spriteId: e921b0a4b0e2aa645842ced0cdbbc37a
+    - name: Gun-1_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 1
+        width: 27
+        height: 24
+      spriteId: 004093da275af8b4c98a85bb3d702fb5
+    - name: Gun-1_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 10
+        y: 0
+        width: 26
+        height: 25
+      spriteId: a0f3946aef1bb69469dd9b9a7bf4a47e
+    - name: Gun-1_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 10
+        y: 5
+        width: 26
+        height: 21
+      spriteId: 8573688436c3c0e49bbe9706771d29ff
+    - name: Gun-1_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 8
+        y: 9
+        width: 28
+        height: 16
+      spriteId: 9e15cdb7a705de047a274143680ab434
+    - name: Gun-1_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 7
+        y: 9
+        width: 29
+        height: 16
+      spriteId: c02ce52216d053c4d97a6d97ed5cfda3
+    - name: Gun-1_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 6
+        y: 9
+        width: 30
+        height: 16
+      spriteId: f4346ea0f24c4314aa6ff8317bed4d41
+    - name: Gun-1_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 15
+        y: 9
+        width: 22
+        height: 16
+      spriteId: aaf66e79f14aa5d4ea96f29d1fa62841
+    - name: Gun-1_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 14
+        y: 9
+        width: 22
+        height: 16
+      spriteId: c229dad0f3f3a564d99fd05544c8cbdd
+    - name: Gun-1_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 14
+        y: 9
+        width: 22
+        height: 16
+      spriteId: 8c8d9a0fd4d711047a4847c3376f3578
+    - name: Gun-1_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 13
+        y: 9
+        width: 22
+        height: 16
+      spriteId: 674dccc78a384e344813a4fe4cdb7d4a
+    - name: Gun-1_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 14
+        y: 9
+        width: 22
+        height: 16
+      spriteId: 17f1b89a5b7c2e04887a29ddf5ade0b9
+    - name: Gun-1_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 14
+        y: 9
+        width: 22
+        height: 16
+      spriteId: bd6b3ae3939bd974d87bbe6ead0a5af3
+    - name: Gun-1_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 14
+        y: 9
+        width: 22
+        height: 16
+      spriteId: 151f3763aeef1054fb741d59a94bd765
+    - name: Gun-1_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 13
+        y: 9
+        width: 22
+        height: 16
+      spriteId: b6a727b8a38f8e04f916b138d010bb95
+    - name: Gun-1_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 9
+        y: 9
+        width: 26
+        height: 16
+      spriteId: a7dea03128e18bf469dbc0905167e11f
+    - name: Gun-1_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 10
+        y: 9
+        width: 26
+        height: 16
+      spriteId: 00f31fe7bfbcdab4e8ab2f7626953397
+    - name: Gun-1_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 10
+        y: 9
+        width: 26
+        height: 16
+      spriteId: e585aff335d1fc54ca78feca36d00a43
+    - name: Gun-1_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 10
+        y: 9
+        width: 26
+        height: 16
+      spriteId: e30c1afb2e51cb141a31221ad5d2409a
+    - name: Gun-1_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 10
+        y: 10
+        width: 26
+        height: 16
+      spriteId: 4dbc021db4f2bd34d9d431a1c451c7c4
+    - name: Gun-1_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 14
+        y: 9
+        width: 22
+        height: 16
+      spriteId: 8ea39845d69cc8e43bc43e0eb0659350
+    - name: Gun-1_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 14
+        y: 8
+        width: 22
+        height: 16
+      spriteId: bfd08aeddc41cb648bc47701ba0ae279
+    - name: Gun-1_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 14
+        y: 8
+        width: 22
+        height: 16
+      spriteId: cae07fa683d939045a15e5089e60a642
+    - name: Gun-1_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 14
+        y: 9
+        width: 22
+        height: 16
+      spriteId: 9da7fd093d476104fa95efb78544f85f
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 32}
